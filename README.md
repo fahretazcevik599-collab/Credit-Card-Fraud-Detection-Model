@@ -27,5 +27,5 @@ False Negatives (Missed frauds): Only 2
 How to Run
 1. Clone this repository.
 2. Ensure you have the required libraries installed: `pip install pandas numpy scikit-learn matplotlib`
-3. Place the dataset (`card_transdata_son.csv`) in the root directory.
+3.Download the dataset from [Kaggle: Credit Card Fraud](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud/data) and place the `card_transdata.csv` file in the root directory.
 4. Run the Python script: `python AAI_final.py`
